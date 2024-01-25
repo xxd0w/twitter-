@@ -10,3 +10,5 @@ def get_ip_address():
 
 # Call the function to get and print the IP address
 get_ip_address()
+
+#paste in a python cmd
